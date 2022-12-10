@@ -15,7 +15,7 @@
     "body-parser": "1.18.x",
     "dotenv": "^8.2.0",
     "ejs": "2.5.x",
-    "express": "4.16.x",
+    "express": "4.17.x",
     "moment": "2.22.x",
     "nodemon": "^2.0.5",
     "plaid": "^9.9.0"
